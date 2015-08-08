@@ -33,7 +33,7 @@ import java.util.Set;
 public class CamaraIntentActivity extends Activity {
 
     private static final int ACTIVITY_START_CAMERA_APP = 0;
-    private ImageView mPhotoCapturedImageView;
+    private ImageView mPhotoCapturedImageView; // test commit
     private String mImageFileLocation = "";
     private String GALLERY_LOCATION = "image gallery";
     private File mGalleryFolder;
